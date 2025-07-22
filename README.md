@@ -1,6 +1,6 @@
 ## Olá 👋
 
->Olá! Me chamo Rhodrigo, sou estudante do 3º período do curso tecnólogo em Análise e Desenvolvimento de Sistemas na FICR. Tenho grande interesse por tecnologia e sou apaixonado por desenvolvimento de software, especialmente na área de backend.
+>Me chamo Rhodrigo, sou estudante do 3º período do curso tecnólogo em Análise e Desenvolvimento de Sistemas na FICR. Tenho grande interesse por tecnologia e sou apaixonado por desenvolvimento de software, especialmente na área de backend.
 >Atualmente, atuo como desenvolvedor backend voluntário na startup Lummi, onde contribuo com o desenvolvimento e manutenção de APIs, focando em performance, escalabilidade e integração entre sistemas.
 ><br/><br/>
 >Minhas principais responsabilidades incluem:
@@ -10,7 +10,7 @@
 > - Colaboração com as equipes de Frontend, Produto e Dados;
 > - Participação ativa em reuniões técnicas e de planejamento.
 > <br/>
->Tenho conhecimentos em Spring Boot, SQL e React, e estou constantemente em busca de aprendizado por meio de bootcamps, trilhas de conhecimento e projetos práticos.
+>Tenho conhecimentos em Spring Boot, NodeJS, SQL e React, e estou constantemente em busca de aprendizado por meio de bootcamps, trilhas de conhecimento e projetos práticos.
 >Atualmente, busco oportunidades para aplicar meus conhecimentos em contextos reais, colaborar com equipes engajadas e contribuir com soluções inovadoras.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-8B02E0.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhodrigo-rodrigues-9579962ab/)
